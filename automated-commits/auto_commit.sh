@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # Navigate to the local repository
 cd /c/Users/Polok/flow
 
