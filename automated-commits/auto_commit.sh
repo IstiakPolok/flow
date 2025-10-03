@@ -2,7 +2,7 @@
  
 # Navigate to the local repository
 cd /c/Users/Polok/flow
-
+ 
 # Create or update a file (you can name the file anything you like)
 echo "Automated commit on $(date)" > file.txt
 
